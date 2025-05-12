@@ -22,3 +22,4 @@ The code is organized by difficulty level:
 - [Mode](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Mode.py)
 - [Range](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Range.py)
 - [MinMax](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_MinMax.py)
+- [Percentile](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Percentile.py)
