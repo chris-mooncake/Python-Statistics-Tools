@@ -1,23 +1,20 @@
 # Input array function
 
-def get_arr_input():
+def get_arr_input() -> list[float]:
     while True:
-        numbers = []
-        user_input = input("Please input your numbers separeted by spaces: ").split()
-        for i in user_input:
-            try:
-                number = float(i)
-                numbers.append(number)
-            except:
-                print(f"Value error. '{i}'. Please input your values again.")
-                break
-
-        if len(numbers) == len(user_input):
+        user_input = input("Please input your numbers separated by spaces: ").split()
+        try:
+            numbers = [float(i) for i in user_input]
+            if not numbers:
+                print("No numbers entered. Please try again.")
+                continue
             return sorted(numbers)
+        except ValueError:
+            print("Invalid input detected. Please enter only numbers.")
 
 # Calculation functions
 
-def median(array):
+def median(array) -> float:
     array_length = len(array)
     mid = array_length // 2
     if array_length % 2 == 0:
@@ -25,7 +22,7 @@ def median(array):
     else:
         return array[mid]
 
-def IQR_calculation(numbers):
+def IQR_calculation(numbers) -> float:
     numbers_length = len(numbers)
     mid = numbers_length // 2
     if numbers_length % 2 == 0:
@@ -36,7 +33,8 @@ def IQR_calculation(numbers):
         upper_half = numbers[mid+1:]
 
     return median(upper_half) - median(lower_half)
-  
+    
+
 # Execution
 
 print(f"IQR = {IQR_calculation(get_arr_input())}")
