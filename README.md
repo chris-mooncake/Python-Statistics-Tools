@@ -21,5 +21,6 @@ The code is organized by difficulty level:
 - [IQR](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_IQR.py)
 - [Mode](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Mode.py)
 - [Range](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Range.py)
-- [MinMax](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_MinMax.py)
+- [Minimum and Maximum](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_MinMax.py)
 - [Percentile](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Percentile.py)
+- [Standard deviation](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_StandardDeviation)
