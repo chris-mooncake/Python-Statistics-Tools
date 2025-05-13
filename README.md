@@ -24,3 +24,4 @@ The code is organized by difficulty level:
 - [Minimum and Maximum](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_MinMax.py)
 - [Percentile](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Percentile.py)
 - [Standard deviation](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_StandardDeviation)
+- [Variance](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Variance.py)
