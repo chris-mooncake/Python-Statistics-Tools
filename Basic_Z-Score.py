@@ -39,7 +39,7 @@ def zscore(numbers) -> float:
     average = sum(numbers) / length_of_array
 
     while True:
-        data_point = input("Please input a data point you want to convert to a z-score: ")
+        data_point = input("Please input a data point you want to convert to a Z-Score: ")
         try:
             data_point = float(data_point)
             break
@@ -49,11 +49,11 @@ def zscore(numbers) -> float:
     deviation = standarddeviation(numbers)
 
     if deviation == 0:
-        print("Standard deviation is 0. Z-score is undefined.")
+        print("Standard deviation is 0. Z-Score is undefined.")
         return None
 
     return (data_point - average) / deviation
 
 # Execution
 
-print(f"Z-score = {zscore(get_arr_input()):.4f}")
+print(f"Z-Score = {zscore(get_arr_input()):.4f}")
