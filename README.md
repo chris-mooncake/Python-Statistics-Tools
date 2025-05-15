@@ -27,3 +27,4 @@ The code is organized by difficulty level:
 - [Standard deviation](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_StandardDeviation.py)
 - [Variance](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Variance.py)
 - [Z-Score](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Z-Score.py)
+- [MAD](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_MAD.py)
