@@ -15,6 +15,7 @@ This repository is a personal project that showcases my journey of learning and 
 ## 📂 Structure
 
 The code is organized by difficulty level:
+
 ### Basic:
 - [Mean](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Mean.py)
 - [Median](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Median.py)
