@@ -14,8 +14,6 @@ def get_arr_input() -> list[float]:
 
 # Calculation functions
 
-
-
 def coefficient_of_variation(numbers: list[float]) -> float:
     length = len(numbers)
     if length == 0:
