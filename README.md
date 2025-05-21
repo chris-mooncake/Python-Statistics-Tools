@@ -32,5 +32,6 @@ The code is organized by difficulty level:
 
 ### Intermediate:
 - [Outlier detection using IQR](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Outlier_detection_using_IQR.py)
-- [Histogram](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Histogram)
+- [Histogram](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Histogram.py)
 - [Skewness](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Skewness.py)
+- [Kurtosis](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Kurtosis.py)
