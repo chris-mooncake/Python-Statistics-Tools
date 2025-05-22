@@ -35,3 +35,4 @@ The code is organized by difficulty level:
 - [Histogram](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Histogram.py)
 - [Skewness](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Skewness.py)
 - [Kurtosis](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Kurtosis.py)
+- [Correlation coefficient (Pearson’s r)](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Pearsons_Correlation.py)
