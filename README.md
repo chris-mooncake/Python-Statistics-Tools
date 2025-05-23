@@ -36,3 +36,4 @@ The code is organized by difficulty level:
 - [Skewness](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Skewness.py)
 - [Kurtosis](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Kurtosis.py)
 - [Correlation coefficient (Pearson’s r)](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Pearsons_Correlation.py)
+- [Covariance](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Covariance.py)
