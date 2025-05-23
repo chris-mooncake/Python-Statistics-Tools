@@ -40,9 +40,6 @@ def pearsons_correlation(x: list[float], y: list[float]) -> float:
 
     Returns:
         float: The Pearson correlation coefficient (r) between the two datasets.
-
-    Raises:
-        ValueError: If the input lists are not of the same length.
     """
 
     length_of_x = len(x)
