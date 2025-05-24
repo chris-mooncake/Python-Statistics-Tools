@@ -37,3 +37,4 @@ The code is organized by difficulty level:
 - [Kurtosis](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Kurtosis.py)
 - [Correlation coefficient (Pearson’s r)](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Pearsons_Correlation.py)
 - [Covariance](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Covariance.py)
+- [Simple Linear Regression](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Simple_Linear_Regression.py)
