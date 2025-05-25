@@ -26,7 +26,7 @@ The code is organized by difficulty level:
 - [Percentile](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Percentile.py)
 - [Standard deviation](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_StandardDeviation.py)
 - [Variance](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Variance.py)
-- [z-Score](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Z-Score.py)
+- [z-Score](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_z-Score.py)
 - [MAD](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_MAD.py)
 - [Coefficient of Variation](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Coefficient_of_Variation.py)
 
