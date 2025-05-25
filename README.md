@@ -26,7 +26,7 @@ The code is organized by difficulty level:
 - [Percentile](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Percentile.py)
 - [Standard deviation](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_StandardDeviation.py)
 - [Variance](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Variance.py)
-- [Z-Score](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Z-Score.py)
+- [z-Score](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Z-Score.py)
 - [MAD](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_MAD.py)
 - [Coefficient of Variation](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Coefficient_of_Variation.py)
 
@@ -35,7 +35,7 @@ The code is organized by difficulty level:
 - [Histogram](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Histogram.py)
 - [Skewness](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Skewness.py)
 - [Kurtosis](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Kurtosis.py)
-- [Correlation coefficient (Pearson’s r)](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Pearsons_Correlation.py)
+- [Correlation Coefficient (Pearson’s r)](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Pearsons_Correlation.py)
 - [Covariance](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Covariance.py)
 - [Simple Linear Regression](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Simple_Linear_Regression.py)
 - [t-Score](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_t_Score.py)
