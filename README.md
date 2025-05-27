@@ -40,3 +40,4 @@ The code is organized by difficulty level:
 - [Simple Linear Regression](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Simple_Linear_Regression.py)
 - [t-Score](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_t_Score.py)
 - [Confidence Interval](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Confidence_Interval.py)
+- [PDF](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_PDF.py)
