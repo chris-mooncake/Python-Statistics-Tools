@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 # Input function
 
 def get_user_input() -> tuple[list[float], list[float]]:
@@ -65,8 +67,39 @@ def simple_regression(x: list[float], y: list[float]) -> tuple[float, float]:
 
     return m, b
 
+# Plotting
+
+def plot_regression(x: list[float], y: list[float], m: float, b: float) -> None:
+    """
+    Plots the scatter plot of the data and overlays the regression line.
+
+    Args:
+        x (list[float]): Independent variable values.
+        y (list[float]): Dependent variable values.
+        m (float): Slope of the regression line.
+        b (float): Intercept of the regression line.
+    """
+    plt.figure(figsize=(8, 5))
+    
+    # Scatter plot
+    plt.scatter(x, y, color='blue', label='Data Points')
+
+    # Regression line
+    x_values = sorted(x)
+    y_predicted = [m * xi + b for xi in x_values]
+    plt.plot(x_values, y_predicted, color='red', label=f'Regression Line: ŷ = {b:.2f} + {m:.2f}x')
+
+    plt.title("Linear Regression Plot")
+    plt.xlabel("X (Independent Variable)")
+    plt.ylabel("Y (Dependent Variable)")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    plt.show()
+
 # Execution
 
 x, y = get_user_input()
 m, b = simple_regression(x, y)
 print(f"Linear regression equation for your data: ŷ = {b:.3f} + {m:.3f}x")
+plot_regression(x, y, m, b)
