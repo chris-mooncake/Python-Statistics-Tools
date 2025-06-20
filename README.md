@@ -42,3 +42,4 @@ The code is organized by difficulty level:
 - [Confidence Interval](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Confidence_Interval.py)
 - [PDF](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_PDF.py)
 - [ECDF Calculator](https://github.com/chris-mooncake/Python-Statistics-Tools/blob/main/Intermediate_ecdf_calculator.py)
+- [Cohen’s d Calculator](https://github.com/chris-mooncake/Python-Statistics-Tools/blob/main/Intermediate_cohens_d_calculator.py)
