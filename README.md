@@ -29,6 +29,7 @@ The code is organized by difficulty level:
 - [z-Score](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_z-Score.py)
 - [MAD](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_MAD.py)
 - [Coefficient of Variation](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Basic_Coefficient_of_Variation.py)
+- [Cumsum](https://github.com/chris-mooncake/Python-Statistics-Tools/blob/main/Basic_Cumsum_calculator.py)
 
 ### Intermediate:
 - [Outlier detection using IQR](https://github.com/chirs-moon/Python-Statistics-Tools/blob/main/Intermediate_Outlier_detection_using_IQR.py)
